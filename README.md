@@ -20,4 +20,4 @@ N/A
 ## Deployment / Video Link of Demonstration
 #
 (https://drive.google.com/file/d/1nEUX5Bo3qAhbc412WsQBWcREuubUJofr/view?usp=sharing)
-![SiteImage](images/Screen Shot 2023-03-01 at 3.55.21 AM.png)
+![SiteImage](images/Screen-Shot-1.png)
